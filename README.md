@@ -21,17 +21,5 @@ This project is an end-to-end IoT solution designed to remotely monitor the real
 ![Circuit Schematic](Schematic.png)
 
 ### Mobile App Interface
-![Mobile App Dashboard](mobile_app/Dashboard.jpeg)
-![Log History Screen](mobile_app/LogHistory.jpeg)
-
-## 🚀 Getting Started
-
-### Hardware Setup
-1. Review the `Schematic.png` file in the root directory.
-2. Assemble the SCT-013 sensor, custom RC circuit, 16-bit ADC, and ESP32 according to the diagram.
-
-### Software Setup
-1. Open the `firmware/main.cpp` file in your preferred IDE (e.g., PlatformIO or Arduino IDE).
-2. Update the Wi-Fi credentials and Google Firebase configuration keys at the top of the file.
-3. Flash the firmware to the ESP32.
-4. Navigate to the `/mobile_app` directory to run the frontend application and view real-time data.
+<img src="mobile_app/Dashboard.jpeg" alt="Mobile App Dashboard" width="300">
+<img src="mobile_app/LogHistory.jpeg" alt="Log History Screen" width="300">
