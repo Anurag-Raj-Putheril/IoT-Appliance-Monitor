@@ -7,10 +7,10 @@
 #include "addons/RTDBHelper.h"
 
 // wifi and firebase credentials
-#define WIFI_SSID "Kathirvelan"
-#define WIFI_PASSWORD "Kathir@1980"
-#define API_KEY "AIzaSyARIQhq6duCIrqBuoQSGnn5_615yXyoPQQ" 
-#define DATABASE_URL "https://device-status-monitor-6d3bb-default-rtdb.firebaseio.com"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
+#define API_KEY "" 
+#define DATABASE_URL ""
 
 FirebaseData fbdo;
 FirebaseAuth auth;
